@@ -16,7 +16,7 @@ public class DkDevDemoApplication {
 	@GetMapping("/")
 	public String getMessage() {
 		
-		return "@@@@@@@@Welcome to springboot git jenkins application";
+		return "@@@@@Welcome to springboot git jenkins application";
 	}
 	
 	@GetMapping("/hello")
