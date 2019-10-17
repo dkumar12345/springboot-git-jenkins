@@ -22,7 +22,7 @@ public class DkDevDemoApplication {
 	@GetMapping("/hello")
 	public String getMessage1() {
 		
-		return "Welcome to spring boot message2";
+		return "Maggie to spring boot message2";
 	}
 
 }
